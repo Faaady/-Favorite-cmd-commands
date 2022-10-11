@@ -1,1 +1,3 @@
 # -Favorite-cmd-commands
+
+* echo 
